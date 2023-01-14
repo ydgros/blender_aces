@@ -1,4 +1,13 @@
 Download（下载）：https://github.com/ydgros/acse-for-blender/releases   
+
+# 效果展示
+
+![image](public/image/2023-01-14_12-39-28.png)  
+
+![image](public/image/2023-01-14_12-39-47.png)  
+
+![image](public/image/2023-01-14_12-40-57.png)  
+
 官网：https://opencolorio.org/  
 
 ACES公版源码：https://github.com/AcademySoftwareFoundation/OpenColorIO  
